@@ -78,7 +78,7 @@ def api_data():
     """Sample API endpoint"""
     data = {
         'message': 'Welcome to CSC Rahti Demo Application!',
-        'name': "Name Name",
+        'name': "Nicolas Nguyen",
         'data': [
             {'id': 1, 'name': 'First Item', 'value': 42},
             {'id': 2, 'name': 'Second Item', 'value': 84},
